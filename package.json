@@ -1,0 +1,16 @@
+{
+  "name": "02-base-node",
+  "version": "0.0.1",
+  "description": "File simple",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "number3": "node app --number=3"
+  },
+  "author": "Darwin",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
